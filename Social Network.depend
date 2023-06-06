@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1614030847 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\friendship.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"friendship.h"
+
+1614029363 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\friendship.h
+	"socialnetwork.h"
+
+1614029504 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\socialnetwork.h
+	<stdio.h>
+	<string.h>
+
+1614049886 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\socialnetwork.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socialnetwork.h"
+
+1614031839 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1614012701 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"socialnetwork.h"
+
+1614012765 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\social network\social network\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socialnetwork.h"
+	"interface.h"
+	"friendship.h"
+
+1614030847 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\friendship.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"friendship.h"
+
+1614029363 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\friendship.h
+	"socialnetwork.h"
+
+1614029504 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\socialnetwork.h
+	<stdio.h>
+	<string.h>
+
+1614049921 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\interface.c
+	<stdio.h>
+	<stdlib.h>
+	"interface.h"
+
+1614012701 c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\interface.h
+	<stdio.h>
+	<stdlib.h>
+	"socialnetwork.h"
+
+1614012765 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socialnetwork.h"
+	"interface.h"
+	"friendship.h"
+
+1614049886 source:c:\users\kaiar\documents\ufop\semestres\2 semestre\aeds 1 = 2021-1\1 - exercícios e trabalhos\social network\social network\socialnetwork.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"socialnetwork.h"
+
